@@ -1,0 +1,26 @@
+[*]
+[*] GTKWave Analyzer v3.3.107 (w)1999-2020 BSI
+[*] Wed Mar 13 14:09:26 2024
+[*]
+[dumpfile] "/Users/qn/Code/dac/dac82002x4/tb.vcd"
+[dumpfile_mtime] "Wed Mar 13 14:08:33 2024"
+[dumpfile_size] 32114223
+[savefile] "/Users/qn/Code/dac/dac82002x4/tb.gtkw"
+[timestart] 660560000
+[size] 1309 600
+[pos] -1 -1
+*-24.000000 108900000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb.
+[sst_width] 193
+[signals_width] 193
+[sst_expanded] 1
+[sst_vpaned_height] 167
+@28
+tb.i2s_init.bck_o
+tb.i2s_init.sdo
+@22
+tb.i2s_init.l_val[15:0]
+tb.i2s_init.key2[23:0]
+tb.i2s_init.key1[23:0]
+[pattern_trace] 1
+[pattern_trace] 0
